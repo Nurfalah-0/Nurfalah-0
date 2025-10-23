@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Halo, saya Muhammad Iqbal Nurfalah!
 
-<!--
-**Nurfalah-0/Nurfalah-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah pelajar di **SMK Nurul Jadid Paiton Probolinggo**, mengambil jurusan **Rekayasa Perangkat Lunak (RPL)**. Saya lebih tertarik pada pengembangan **Back-End** dan juga bidang **DevOps** seperti Docker & Kubernetes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tentang Saya
+
+- **Web Developer** yang fokus pada Back-End dan DevOps
+- Suka belajar hal baru khususnya seputar teknologi server & otomatisasi
+- Hobi: **Bernyanyi** 🎤
+
+---
+
+## 🚀 Project Unggulan
+- **IP Monitor:** Pemantauan alamat IP dengan tools modern
+- **Social Media IG:** Project seputar integrasi dan analisis media sosial
+
+---
+
+## 🛠️ Skill & Teknologi
+
+- Back-End Development (Node.js, Express, dll.)
+- DevOps (Docker, Kubernetes)
+- Database (MySQL, MongoDB)
+- Git & GitHub
+
+---
+
+## 📱 Media Sosial
+
+- [Instagram](https://www.instagram.com/iqbal_noerfalah/)
+
+---
+
+Terima kasih telah mengunjungi profil saya!  
+Jangan ragu untuk terhubung atau cek project saya di bawah 👇
