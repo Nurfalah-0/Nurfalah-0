@@ -14,6 +14,7 @@ Saya adalah pelajar di **SMK Nurul Jadid Paiton Probolinggo**, mengambil jurusan
 
 ## 🚀 Project Unggulan
 - **IP Monitor:** Pemantauan alamat IP dengan tools modern
+- **Program Siaga Banjir:** Deteksi risiko banjir real-time berbasis AI untuk keselamatan dengan akurasi pemosisian tinggi.
 - **Social Media IG:** Project seputar integrasi dan analisis media sosial
 
 ---
