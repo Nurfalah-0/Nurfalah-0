@@ -14,8 +14,8 @@ Selamat datang di profil saya! Saya adalah seorang pelajar di **SMK Nurul Jadid 
 ## 🚀 Proyek Unggulan
 Berikut beberapa karya yang pernah saya kerjakan:  
 
-- 🔍 **[IP Monitor](#):** Aplikasi modern untuk memantau alamat IP.  
-- 🌊 **[Program Siaga Banjir](#):** Sistem deteksi risiko banjir real-time berbasis AI dengan akurasi pemosisian tinggi.  
+- 🔍 **[IP Monitor](https://github.com/Nurfalah-0/Monitor-IP-Address.git):** Aplikasi modern untuk memantau alamat IP.  
+- 🌊 **[Program Siaga Banjir](https://github.com/Nurfalah-0/Project_Bencana.git):** Sistem deteksi risiko banjir real-time berbasis AI dengan akurasi pemosisian tinggi.  
 
 *(Klik pada nama proyek untuk melihat detail lengkap!)*
 
