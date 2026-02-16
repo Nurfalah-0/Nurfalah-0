@@ -1,37 +1,48 @@
-# 👋 Halo, saya Muhammad Iqbal Nurfalah!
+# 👋 Halo, Salam Kenal! Saya Muhammad Iqbal Nurfalah!
 
-Saya adalah pelajar di **SMK Nurul Jadid Paiton Probolinggo**, mengambil jurusan **Rekayasa Perangkat Lunak (RPL)**. Saya lebih tertarik pada pengembangan **Back-End** dan juga bidang **DevOps** seperti Docker & Kubernetes.
-
----
-
-## 💻 Tentang Saya
-
-- **Web Developer** yang fokus pada Back-End dan DevOps
-- Suka belajar hal baru khususnya seputar teknologi server & otomatisasi
-- Hobi: **Bernyanyi** 🎤
+Selamat datang di profil saya! Saya adalah seorang pelajar di **SMK Nurul Jadid Paiton Probolinggo**, berfokus pada jurusan **Rekayasa Perangkat Lunak (RPL)**. Keahlian utama saya ada di bidang **Back-End Development** dan **DevOps**, dengan semangat belajar tinggi terhadap teknologi terkini.
 
 ---
 
-## 🚀 Project Unggulan
-- **IP Monitor:** Pemantauan alamat IP dengan tools modern
-- **Program Siaga Banjir:** Deteksi risiko banjir real-time berbasis AI untuk keselamatan dengan akurasi pemosisian tinggi.
+## 🧑‍💻 Tentang Saya
+✨ **Web Developer** yang mendalami **Back-End Development** dan **DevOps**.  
+📚 Saya sangat menikmati mempelajari teknologi server, otomatisasi, dan hal baru lainnya.  
+🎤 **Hobi:** Bernyanyi karena musik membawa inspirasi!  
 
 ---
 
-## 🛠️ Skill & Teknologi
+## 🚀 Proyek Unggulan
+Berikut beberapa karya yang pernah saya kerjakan:  
 
-- Back-End Development (Node.js, Next.js, dll.)
-- DevOps (Docker, Kubernetes)
-- Database (MySQL, MongoDB)
-- Git & GitHub
+- 🔍 **[IP Monitor](#):** Aplikasi modern untuk memantau alamat IP.  
+- 🌊 **[Program Siaga Banjir](#):** Sistem deteksi risiko banjir real-time berbasis AI dengan akurasi pemosisian tinggi.  
 
----
-
-## 📱 Media Sosial
-
-- [Instagram](https://www.instagram.com/iqbal_noerfalah/)
+*(Klik pada nama proyek untuk melihat detail lengkap!)*
 
 ---
 
-Terima kasih telah mengunjungi profil saya!  
-Jangan ragu untuk terhubung atau cek project saya di bawah 👇
+## 🛠️ Keahlian & Teknologi
+Berikut adalah teknologi dan alat yang biasa digunakan:  
+
+**Development & Framework**  
+- ⚙️ Back-End: `Node.js`, `Next.js`  
+- 💻 DevOps: `Docker`, `Kubernetes`  
+- 🗄️ Database: `MySQL`, `MongoDB`  
+
+**Version Control**  
+- 📂 Versi kode: `Git`, `GitHub`  
+
+---
+
+## 🌐 Terhubung Dengan Saya
+📱 Temui saya di platform online favorit Anda:
+
+- 📸 [Instagram](https://www.instagram.com/iqbal_noerfalah/)  
+*(Jangan lupa klik follow!)*  
+
+---
+
+Terima kasih telah mampir! 🎉  
+Jangan ragu untuk mengeksplor proyek-proyek saya atau menghubungi saya jika ada kolaborasi menarik.  
+
+👇 **Let’s Connect and Collaborate!** 👇
