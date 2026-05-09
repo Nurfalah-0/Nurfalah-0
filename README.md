@@ -5,9 +5,9 @@ Selamat datang di profil saya! Saya adalah seorang pelajar di **SMK Nurul Jadid 
 ---
 
 ## Tentang Saya
-✨ **Web Developer** yang mendalami **Back-End Development** dan **DevOps**.  
-📚 Saya sangat menikmati mempelajari teknologi server, otomatisasi, dan hal baru lainnya.  
-🎤 **Hobi:** Bernyanyi karena musik membawa inspirasi!  
+ **Web Developer** yang mendalami **Back-End Development** dan **DevOps**.  
+ Saya sangat menikmati mempelajari teknologi server, otomatisasi, dan hal baru lainnya.  
+ **Hobi:** Bernyanyi karena musik membawa inspirasi!  
 
 ---
 
@@ -33,8 +33,8 @@ Berikut adalah teknologi dan alat yang biasa digunakan:
 
 ---
 
-## 🌐 Terhubung Dengan Saya
-📱 Temui saya di platform online favorit Anda:
+##  Terhubung Dengan Saya
+ Temui saya di platform online favorit Anda:
 
 -  [Instagram](https://www.instagram.com/iqbal_noerfalah/)  
 *(Jangan lupa klik follow!)*  
