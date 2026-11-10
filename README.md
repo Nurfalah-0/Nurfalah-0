@@ -124,11 +124,11 @@ I enjoy solving system problems, automating workflows, and learning modern techn
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nurfalah-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E7C2&icon_color=00E7C2&text_color=FFFFFF&cache_seconds=86400" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nurfalah-0&theme=tokyonight" alt="GitHub statistics" />
 <br/>
 <img src="https://streak-stats.demolab.com/?user=Nurfalah-0&theme=tokyonight&hide_border=true&background=00000000&ring=00E7C2&fire=00E7C2&currStreakNum=00E7C2&sideLabels=FFFFFF" alt="GitHub contribution streak" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurfalah-0&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E7C2&text_color=FFFFFF&layout=compact&cache_seconds=86400" alt="Most-used programming languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nurfalah-0&theme=tokyonight" alt="Most-used programming languages" />
 
 </div>
 
@@ -138,7 +138,7 @@ I enjoy solving system problems, automating workflows, and learning modern techn
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nurfalah-0&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00E7C2&line=FFFFFF&point=00E7C2" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nurfalah-0&theme=tokyonight" width="100%" alt="GitHub contribution and profile overview" />
 
 </div>
 
