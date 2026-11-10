@@ -133,10 +133,11 @@ I thrive on breaking down complex system problems, automating workflows, and lea
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Nurfalah-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E7C2&icon_color=00E7C2&text_color=FFFFFF" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurfalah-0&theme=tokyonight&hide_border=true&background=00000000&ring=00E7C2&fire=00E7C2&curr=00E7C2&sideLabels=FFFFFF" height="170" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nurfalah-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E7C2&icon_color=00E7C2&text_color=FFFFFF&cache_seconds=86400" alt="GitHub Stats" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurfalah-0&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E7C2&text_color=FFFFFF&layout=compact" height="170" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurfalah-0&theme=tokyonight&hide_border=true&background=00000000&ring=00E7C2&fire=00E7C2&curr=00E7C2&sideLabels=FFFFFF" alt="GitHub Streak" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurfalah-0&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00E7C2&text_color=FFFFFF&layout=compact&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
